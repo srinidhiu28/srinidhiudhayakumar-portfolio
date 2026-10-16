@@ -1,35 +1,66 @@
- 👋 I'm an IT Student
- 
-🎓 I'm a B.Sc. Information Technology student passionate about programming, technology, and problem-solving.
+ Hi, I'm Srinidhi! 👋
 
- 💻 About Me
+Aspiring Python Developer | Data Analytics Enthusiast
 
-* 🐍 Learning Python and improving my programming skills.
-* 🗄️ Practicing SQL and database management.
-* 📊 Exploring Data Analytics and data visualization.
-* 🌱 Building mini-projects to gain practical experience.
-* 🚀 Continuously learning and developing my technical skills.
+Welcome to my GitHub profile!
 
- 🛠️ Technologies & Tools
+I'm a B.Sc. Information Technology student who enjoys
+learning programming, solving problems, and building
+practical projects.
 
-* **Languages:** Python, SQL, HTML,
-* **Database:** MySQL, Oracle SQL
-* **Tools:** Git, GitHub, Visual Studio Code
-* **Currently Exploring:** Data Analytics, Excel, Power BI
+🚀 About Me
 
-📂 My Projects
+- 🎓 Pursuing B.Sc. Information Technology
+- 💻 Learning Python Programming
+- 📊 Exploring Data Analytics
+- 🗄️ Practicing SQL and Database Management
+- 📈 Learning Excel and Power BI
+- 🌱 Improving my programming and problem-solving skills
+- 🎯 Goal: Build practical projects and grow as a developer
 
-* 🎮 Rock, Paper, Scissors Game
-* 🔢 Number Guessing Game
-* 🔐 Password Strength Checker
-* 💱 Currency Converter
-* 🎲 Dice Roller Game
-* ❓ Python Quiz Game
+ 🛠️ Technical Skills
 
-🎯 My Goal
+- Programming: Python
+- Database: MySQL, SQL
+- Data Analytics: Excel, Power BI
+- Web Development: HTML, CSS, JavaScript
+- Tools: Git, GitHub, Visual Studio Code
 
-To strengthen my technical skills, build meaningful projects, and grow as a technology professional.
+ 📂 My Projects
 
-🤝 Let's Connect
+ 1. Currency Converter
+A Python project that converts an amount between
+different currencies.
 
-I'm always interested in learning, collaborating, and exploring new opportunities!
+ 2. Number Guessing Game
+A Python game where users guess a randomly generated number.
+
+ 3. Dice Roller
+A simple Python application that simulates rolling a dice.
+
+ 4. Rock Paper Scissors
+A Python game where users play against the computer.
+
+ 5. Password Strength Checker
+A Python program that checks password strength using
+different validation rules.
+
+ 6. Python Quiz Game
+A multiple-choice quiz application built using Python.
+
+ 📚 Currently Learning
+
+- Python Programming
+- Data Analysis
+- SQL Queries
+- Power BI
+- Excel
+- Git and GitHub
+
+🤝 Connect With Me
+
+- GitHub: Explore my repositories and projects.
+
+---
+
+⭐ Thanks for visiting my profile!
